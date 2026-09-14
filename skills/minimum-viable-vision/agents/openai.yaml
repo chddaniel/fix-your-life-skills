@@ -1,0 +1,4 @@
+interface:
+  display_name: "Minimum Viable Vision"
+  short_description: "Choose a direction without false certainty"
+  default_prompt: "Use $minimum-viable-vision to turn my vague desired future into a testable direction."
