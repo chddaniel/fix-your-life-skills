@@ -1,0 +1,4 @@
+interface:
+  display_name: "Goal Steering"
+  short_description: "Turn goals into learning and course correction"
+  default_prompt: "Use $goal-steering to diagnose why this goal is stalled and design my next feedback loop."
