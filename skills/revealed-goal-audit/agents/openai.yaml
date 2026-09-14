@@ -1,0 +1,4 @@
+interface:
+  display_name: "Revealed Goal Audit"
+  short_description: "Compare stated goals with repeated behavior"
+  default_prompt: "Use $revealed-goal-audit to help me understand why I keep acting against this goal."
