@@ -1,0 +1,4 @@
+interface:
+  display_name: "Life Reset Day"
+  short_description: "Turn reflection into a concrete reset plan"
+  default_prompt: "Use $life-reset-day to guide me through a complete life reset."
