@@ -1,0 +1,4 @@
+interface:
+  display_name: "Life Gameboard"
+  short_description: "Connect vision to projects and daily action"
+  default_prompt: "Use $life-gameboard to turn these goals and reflections into one coherent action hierarchy."
