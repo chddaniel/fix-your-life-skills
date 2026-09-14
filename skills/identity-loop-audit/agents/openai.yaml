@@ -1,0 +1,4 @@
+interface:
+  display_name: "Identity Loop Audit"
+  short_description: "Find and test a limiting identity loop"
+  default_prompt: "Use $identity-loop-audit to map the identity story behind this recurring pattern."
