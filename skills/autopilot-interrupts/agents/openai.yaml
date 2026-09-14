@@ -1,0 +1,4 @@
+interface:
+  display_name: "Autopilot Interrupts"
+  short_description: "Catch hidden patterns during a real day"
+  default_prompt: "Use $autopilot-interrupts to design prompts that catch this pattern while it happens."
